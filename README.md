@@ -13,6 +13,7 @@ By **Augustine Bobi**, Chemical Engineering, NITC.
 - **Problem:** To find flow properties and model to represent the flow property od complex fluid.
 - **Method:** Rheometer analysis(For experimental dataset), OriginPro(To fit the data with appropriate model)`.
 - **Outputs:** Rheological model properly aligning with the sample.
+- **DataSet:** Flow Curve, Constant Shear rate test, Amplitude Sweep test, Frequency Sweep test, Creep test.
 
 ## Tools
 · Rheometer · OriginPro  
